@@ -1,0 +1,60 @@
+<table cellpadding="10" cellspacing="0" bgcolor="#f4f4f4" width="100%" style="border:1px solid #ddd; line-height:14px; font-size:11px; font-family:'Inter', helvetica, sans-serif;color:#666;width:500px;text-align:justify">
+
+<tr><td width="47%" style="padding-bottom: 20px; text-transform:uppercase;font-size: 10px;border-right: 1px solid #ddd"><table width="100%" cellspacing="0" cellpadding="7">
+
+<tr>
+<td style="padding: 10px 0; text-transform:uppercase; text-align:center; line-height: 25px;font-size: 20px;font-weight:bold; color: #COLORE1">
+NOMEPG
+COGNOMEPG
+</td>
+</tr>
+
+<tr>
+<td style="padding: 10px;padding-top: 0"><div style="width:70%;background:linear-gradient(to right, #eee 0%, #ddd 25%, #ccc 50%, #ddd 70%, #eee 100%);height:1px"></div></td>
+</tr>
+
+<tr>
+<td style="border-bottom: 1px solid #ddd"><span style="background: #COLORE1; padding: 2px 4px; border-radius:2px; border-radius:2px;color: #eee; margin-right: 3px">età</span> ANNIPG
+</td>
+</tr>
+
+<tr>
+<td style="border-bottom: 1px solid #ddd"><span style="background: #COLORE1; padding: 2px 4px; border-radius:2px; border-radius:2px;color: #eee; margin-right: 3px">origini</span> ORIGINIPG
+</td>
+</tr>
+
+</table></td>
+
+<td width="53%" rowspan="2" style="padding:0"><table width="100%" cellspacing="0" cellpadding="7">
+
+<tr>
+<td valign="middle" bgcolor="#eee" style="padding:10px; background:url(LINKGIF) center; filter: grayscale(0); background-size:cover; height: 180px; border-bottom: 1px solid #ddd;text-align:center"><i class="fas fa-ICONA" style="font-size: 35px; color: #eee"></i></td>
+</tr>
+
+<tr>
+<td style="padding: 12px 17px; padding-top: 20px; font-size: 10px"><div style="border:1px solid #ddd; background:#eee; border-radius: 4px;padding:7px;font-size:9px;text-transform:lowercase"> QUOTEQUOTEQUOTE
+QUOTEQUOTEQUOTE
+QUOTEQUOTEQUOTE
+QUOTEQUOTEQUOTE </div> <div style="margin-top:-10px; padding-right:30px; text-align:right"><i class="fa-solid fa-quote-left" style="padding:4px 5px;background: #COLORE2; border-radius:50%; color: #eee"></i> </div></td>
+</tr>
+
+</table></td>
+</tr>
+
+<tr>
+<td bgcolor="#eee" style="border-top: 1px solid #ddd; line-height: 15.5px; border-right: 1px solid #ddd" valign="top"><div style="overflow: auto; height: 123px; padding-right: 5px"> 
+
+TESTO_DELLA_ROLE
+TESTO_DELLA_ROLE
+TESTO_DELLA_ROLE
+TESTO_DELLA_ROLE
+<span style="font-weight:bold;color:#COLORE1">«DIALOGO»</span>
+
+</div></td>
+</tr>
+
+<tr>
+<td colspan="2" style="background: linear-gradient(to right, #COLORE1, #COLORE2); border-top: 1px solid #ddd;text-transform:lowercase;font-size:9px"><div style="background: #f4f4f4; width: 30%; border-radius:7px;border:1px solid #ddd; padding: 7px"><span style="padding:3px;border-radius:2px;background:#eee;font-size:8px;border:1px solid #ddd; margin-right:4px"><i class="fa-solid fa-code"></i></span> https://[URL=https://lia.blogfree.net/?act=Profile&MID=466074]<span style="color:#aaa;">gods-chariots</span>[/URL].com</div></td></td>
+</tr>
+
+</table>
